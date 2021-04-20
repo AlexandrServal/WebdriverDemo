@@ -28,7 +28,7 @@
 .idea/**/WebdriverDemo.iml
 .idea/misc.xml
 .idea/inspectionProfiles/profiles_settings.xml
-
+.venv/pyvenv.cfg
 
 
 # Generated files
